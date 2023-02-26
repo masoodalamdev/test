@@ -1,0 +1,10 @@
+.jobCounter div img{
+    height: 100px;
+    width: 100px;
+}
+
+#job{
+    font-weight: bold;
+    font-size: 16px;
+
+}

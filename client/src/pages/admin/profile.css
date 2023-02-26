@@ -1,0 +1,30 @@
+.link {
+    text-decoration: none;
+}
+#profileIMG{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid green;
+    margin-top: 10px;
+    align-items: center;
+}
+#userBox{
+
+}
+#userInfo{
+    text-align: center;
+    line-height: 10px;
+    color: #444444;
+   
+}
+#name{
+    font-weight: bold;
+}
+#email{
+    font-size: 14px;
+}
+
+/* .outlet{
+    border: 2px solid red;
+} */

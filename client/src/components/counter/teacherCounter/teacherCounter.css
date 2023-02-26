@@ -1,0 +1,17 @@
+.teacherCounter{
+
+}
+
+.teacherCounter div img {
+    height: 100px;
+    width: 100px;
+}
+
+#teacher{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.link{
+    text-decoration: none;
+}
